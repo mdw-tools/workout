@@ -1,3 +1,3 @@
-module github.com/mdwhatcott/workout
+module github.com/mdw-tools/workout
 
 go 1.13
